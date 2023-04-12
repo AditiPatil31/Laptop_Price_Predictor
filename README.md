@@ -1,1 +1,1 @@
-# ML_Projects
+# Laptop_Price_predictor
